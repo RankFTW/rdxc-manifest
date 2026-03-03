@@ -1,12 +1,11 @@
 {
-  "version": 2,
+  "version": 1.1,
   "wikiNameOverrides": {
   },
   "ueExtendedGames": [
   ],
   "nativeHdrGames": [
     "Avowed",
-    "Of Ash and Steel",
     "Lies of P",
     "Lost Soul Aside",
     "Hell is Us",
@@ -15,9 +14,18 @@
     "Marvel's Midnight Suns",
     "Mortal Kombat 1",
     "Alone in the Dark",
-    "Still Wakes the Deep"
+    "Still Wakes the Deep",
+	"Of Ash and Steel"
   ],
   "blacklist": [
+    "Steamworks Common Redistributables",
+    "QuickPasta",
+    "Apple Music",
+    "DSX",
+    "PlayStation®VR2 App",
+    "SteamVR",
+    "Telegram Desktop",
+    "Windows"
   ],
   "thirtyTwoBitGames": [
   ],
@@ -40,7 +48,11 @@
       "url": "https://discord.gg/gF4GRJWZ2A",
       "label": "Get on Discord"
     }
+  },
+  "installPathOverrides": {
+    "Cyberpunk 2077": "bin\\x64"
+  },
+  "wikiStatusOverrides": {
+    "Code Vein II": "✅"
   }
 }
-
-
