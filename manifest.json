@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "wikiNameOverrides": {
   },
   "ueExtendedGames": [
@@ -42,4 +42,5 @@
     }
   }
 }
+
 
