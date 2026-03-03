@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "wikiNameOverrides": {
+  },
+  "ueExtendedGames": [
+  ],
+  "nativeHdrGames": [
+    "Avowed",
+    "Lies of P",
+    "Lost Soul Aside",
+    "Hell is Us",
+    "Mafia: The Old Country",
+    "Returnal",
+    "Marvel's Midnight Suns",
+    "Mortal Kombat 1",
+    "Alone in the Dark",
+    "Still Wakes the Deep"
+  ],
+  "blacklist": [
+  ],
+  "thirtyTwoBitGames": [
+  ],
+  "gameNotes": {
+    "Cyberpunk 2077": {
+      "notes": "⚠️ The RenoDX mod for Cyberpunk 2077 is a WIP. Always get the latest build directly from the RenoDX Discord — it is updated more frequently than any wiki download.\n\nSee Creepy's Cyberpunk RenoDX Guide for setup instructions:",
+      "notesUrl": "https://www.hdrmods.com/Cyberpunk",
+      "notesUrlLabel": "Creepy's Cyberpunk RenoDX Guide"
+    },
+    "Dishonored": {
+      "notes": "ℹ️ This game has both 32-bit and 64-bit RenoDX builds.\n\n• 64-bit (default) — for the Microsoft Store and Epic Games Store versions.\n• 32-bit — for the Steam version. Enable 32-bit mode in 🎯 Overrides to use this.",
+      "notesUrl": null,
+      "notesUrlLabel": null
+    }
+  },
+  "dcModeOverrides": {
+  },
+  "forceExternalOnly": {
+    "Cyberpunk 2077": {
+      "url": "https://discord.gg/gF4GRJWZ2A",
+      "label": "Get on Discord"
+    }
+  }
+}
