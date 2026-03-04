@@ -48,6 +48,11 @@
       "notesUrl": null,
       "notesUrlLabel": null
     },
+	"Grand Theft Auto V Enhanced": {
+      "notes": "Change ReShade overlay button in ReShade.ini so it doesn't conflict with Rockstar overlay",
+      "notesUrl": null,
+      "notesUrlLabel": null
+    },
 	"Red Dead Redemption 2": {
       "notes": "Game must use DC Mode 1 if using DC Mode.\nChange ReShade overlay button in ReShade.ini so it doesn't conflict with Rockstar overlay",
       "notesUrl": null,
