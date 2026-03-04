@@ -58,13 +58,13 @@
     },
 	"Far Cry 2": {
       "notes": "⚠️ Far Cry 2 must run in DX10 for RenoDX to work",
-      "notesUrl": null,
-      "notesUrlLabel": null
+      "notesUrl": "https://www.nexusmods.com/farcry2/mods/350",
+      "notesUrlLabel": "Far Cry 2 Nexus Link"
     },
 	"Far Cry 3": {
       "notes": "⚠️ Far Cry 3 must run in DX11 for RenoDX to work",
-      "notesUrl": null,
-      "notesUrlLabel": null
+      "notesUrl": "https://www.nexusmods.com/farcry3/mods/354",
+      "notesUrlLabel": "Far Cry 3 Nexus Link"
     },
 	"Grand Theft Auto V Enhanced": {
       "notes": "ℹ️ Change ReShade overlay button in ReShade.ini so it doesn't conflict with Rockstar overlay",
