@@ -44,7 +44,7 @@
 	  "Crisol: Theater of Idols": {
 		  "notes": "Use UE-Extended",
 		  "notesurl": null,
-		  "noteurlLabel": null
+		  "notesurlLabel": null
 	  },
   },
   "dcModeOverrides": {
@@ -62,6 +62,7 @@
     "Code Vein II": "✅"
   }
 }
+
 
 
 
