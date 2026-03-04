@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "wikiNameOverrides": {
   },
   "ueExtendedGames": [
@@ -15,7 +15,7 @@
     "Mortal Kombat 1",
     "Alone in the Dark",
     "Still Wakes the Deep",
-"Of Ash and Steel"
+	"Of Ash and Steel"
   ],
   "blacklist": [
     "Steamworks Common Redistributables",
@@ -56,6 +56,3 @@
     "Code Vein II": "✅"
   }
 }
-
-
-
