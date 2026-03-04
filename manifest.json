@@ -4,7 +4,7 @@
 	  "FINAL FANTASY VII REMAKE INTERGRADE": "Final Fantasy VII Remake"
   },
   "ueExtendedGames": [
-	  "Crisol: Theater of Idols"
+	"Crisol: Theater of Idols"
   ],
   "nativeHdrGames": [
     "Avowed",
@@ -16,7 +16,8 @@
     "Marvel's Midnight Suns",
     "Mortal Kombat 1",
     "Alone in the Dark",
-    "Still Wakes the Deep"
+    "Still Wakes the Deep",
+	"Of Ash and Steel"
   ],
   "blacklist": [
     "Steamworks Common Redistributables",
@@ -41,11 +42,11 @@
       "notesUrl": null,
       "notesUrlLabel": null
     },
-	  "Crisol: Theater of Idols": {
-		  "notes": "Use UE-Extended",
-		  "notesurl": null,
-		  "notesurlLabel": null
-	  }
+	"Crisol: Theater of Idols": {
+      "notes": "Game supportd UE-Extended",
+      "notesUrl": null,
+      "notesUrlLabel": null
+    }
   },
   "dcModeOverrides": {
   },
@@ -62,12 +63,3 @@
     "Code Vein II": "✅"
   }
 }
-
-
-
-
-
-
-
-
-
