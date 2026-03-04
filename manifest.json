@@ -125,6 +125,11 @@
       "notes": "Recommended to use Luma for this game for best HDR results.\nYou must switch the game to DX11 with launch argument -dx11\n\nMore info on the Nexus page below:",
       "notesUrl": "https://www.nexusmods.com/finalfantasy7remake/mods/1974",
       "notesUrlLabel": "Final Fantasy VII Remake Nexus"
+    },
+	"BioShock Remastered": {
+      "notes": "Additional information available on Nexus below:",
+      "notesUrl": "https://www.nexusmods.com/bioshock/mods/94",
+      "notesUrlLabel": "BioShock Remastered Nexus"
     }
   }
 }
