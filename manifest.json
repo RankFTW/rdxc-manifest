@@ -49,6 +49,11 @@
       "notesUrl": null,
       "notesUrlLabel": null
     },
+	"X4: Timelines": {
+      "notes": "DC must be loaded as winmm.dll using DC Mode 1",
+      "notesUrl": null,
+      "notesUrlLabel": null
+    },
 	"Grand Theft Auto V Enhanced": {
       "notes": "Change ReShade overlay button in ReShade.ini so it doesn't conflict with Rockstar overlay",
       "notesUrl": null,
@@ -61,7 +66,8 @@
 	}
   },
   "dcModeOverrides": {
-  "Red Dead Redemption 2": 1
+  "Red Dead Redemption 2": 1,
+  "X4: Timelines": 2
   },
   "forceExternalOnly": {
     "Cyberpunk 2077": {
