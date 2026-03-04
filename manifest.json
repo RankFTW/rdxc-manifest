@@ -110,5 +110,15 @@
   "snapshotOverrides": {
     "Far Cry 2": "https://clshortfuse.github.io/renodx/renodx-duniaengine.addon32",
     "Far Cry 3": "https://clshortfuse.github.io/renodx/renodx-duniaengine.addon32"
+  },
+  "lumaDefaultGames": [
+    "FINAL FANTASY VII REMAKE INTERGRADE"
+  ],
+  "lumaGameNotes": {
+    "FINAL FANTASY VII REMAKE INTERGRADE": {
+      "notes": "Recommended to use Luma for this game for best HDR results.\nYou must switch the game to DX11 with launch argument -dx11\n\nMore info on the Nexus page below:",
+      "notesUrl": "https://www.nexusmods.com/finalfantasy7remake/mods/1974",
+      "notesUrlLabel": "Final Fantasy VII Remake Nexus"
+    }
   }
 }
