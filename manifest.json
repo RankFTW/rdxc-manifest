@@ -57,12 +57,12 @@
       "notesUrlLabel": null
     },
 	"Far Cry 2": {
-      "notes": "⚠️ Far Cry 2 must run in DX10 for RenoDX to work",
+      "notes": "⚠️ Far Cry 2 must run in DX10 for RenoDX to work.\n\nMore information available on Nexus:",
       "notesUrl": "https://www.nexusmods.com/farcry2/mods/350",
       "notesUrlLabel": "Far Cry 2 Nexus Link"
     },
 	"Far Cry 3": {
-      "notes": "⚠️ Far Cry 3 must run in DX11 for RenoDX to work",
+      "notes": "⚠️ Far Cry 3 must run in DX11 for RenoDX to work.\n\nMore information available on Nexus:",
       "notesUrl": "https://www.nexusmods.com/farcry3/mods/354",
       "notesUrlLabel": "Far Cry 3 Nexus Link"
     },
