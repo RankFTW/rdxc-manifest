@@ -40,7 +40,12 @@
       "notes": "ℹ️ This game has both 32-bit and 64-bit RenoDX builds.\n\n• 64-bit (default) — for the Microsoft Store and Epic Games Store versions.\n• 32-bit — for the Steam version. Enable 32-bit mode in 🎯 Overrides to use this.",
       "notesUrl": null,
       "notesUrlLabel": null
-    }
+    },
+	  "Crisol: Theater of Idols": {
+		  "notes": "Use UE-Extended",
+		  "notesurl"; null,
+		  "noteurlLabel";null
+	  },
   },
   "dcModeOverrides": {
   },
@@ -57,6 +62,7 @@
     "Code Vein II": "✅"
   }
 }
+
 
 
 
