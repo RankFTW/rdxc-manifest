@@ -34,7 +34,8 @@
     "Windows"
   ],
   "thirtyTwoBitGames": [
-  "Far Cry 2"
+  "Far Cry 2",
+  "Far Cry 3"
   ],
   "gameNotes": {
     "Cyberpunk 2077": {
@@ -89,7 +90,8 @@
     }
   },
   "installPathOverrides": {
-    "Cyberpunk 2077": "bin\\x64"
+    "Cyberpunk 2077": "bin\\x64",
+	"Of Ash and Steel": "ofAshAndSteelGame\\Binaries\\Win64"
   },
   "wikiStatusOverrides": {
     "Code Vein II": "✅"
