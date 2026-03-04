@@ -9,7 +9,10 @@
 		"PlayStation®VR2 App",
 		"SteamVR",
 		"Telegram Desktop",
-		"Windows"
+		"Windows",
+		"ShaderGlass",
+		"Soundpad"
+		
 	],
 
 	"nativeHdrGames": [
