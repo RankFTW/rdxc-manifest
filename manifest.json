@@ -2,7 +2,9 @@
   "version": 1,
   "wikiNameOverrides": {
 	  "FINAL FANTASY VII REMAKE INTERGRADE": "Final Fantasy VII Remake",
-	  "BurnoutPR": "Burnout Paradise Remastered"
+	  "BurnoutPR": "Burnout Paradise Remastered",
+	  "Far Cry 2": "Far Cry 2 (dx10) · Far Cry 3 (dx11)",
+	  "Far Cry 3": "Far Cry 2 (dx10) · Far Cry 3 (dx11)"
   },
 	"ueExtendedGames": [
 	"Crisol: Theater of Idols",
@@ -51,6 +53,16 @@
     },
 	"X4: Timelines": {
       "notes": "DC must be loaded as winmm.dll using DC Mode 2",
+      "notesUrl": null,
+      "notesUrlLabel": null
+    },
+	"Far Cry 2": {
+      "notes": "Far Cry 2 must run in DX10 for RenoDX to work",
+      "notesUrl": null,
+      "notesUrlLabel": null
+    },
+	"Far Cry 3": {
+      "notes": "Far Cry 3 must run in DX11 for RenoDX to work",
       "notesUrl": null,
       "notesUrlLabel": null
     },
