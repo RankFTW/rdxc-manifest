@@ -48,7 +48,11 @@
       "notes": "Game supports UE-Extended using Native HDR",
       "notesUrl": null,
       "notesUrlLabel": null
-    }
+    },
+	"Red Dead Redemption 2": {
+      "notes": "Game must use DC Mode 1 if using DC Mode",
+      "notesUrl": null,
+      "notesUrlLabel": null
   },
   "dcModeOverrides": {
   "Red Dead Redemption 2": 1
