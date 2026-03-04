@@ -112,7 +112,10 @@
     "Far Cry 3": "https://clshortfuse.github.io/renodx/renodx-duniaengine.addon32"
   },
   "lumaDefaultGames": [
-    "FINAL FANTASY VII REMAKE INTERGRADE"
+    "FINAL FANTASY VII REMAKE INTERGRADE",
+	"Burnout Paradise Remastered",
+	"BioShock Remastered",
+	"BioShock 2 Remastered"
   ],
   "lumaGameNotes": {
     "FINAL FANTASY VII REMAKE INTERGRADE": {
