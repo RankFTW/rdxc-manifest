@@ -1,13 +1,13 @@
 {
-  "version": 3,
+  "version": 2,
   "wikiNameOverrides": {
 	  "FINAL FANTASY VII REMAKE INTERGRADE": "Final Fantasy VII Remake"
   },
-  "ueExtendedGames": [
-	"Crisol: Theater of Idols"
-	"High on Life 2"
+	"ueExtendedGames": [
+	"Crisol: Theater of Idols",
+	"High on Life 2",
 	"ROMEO IS A DEAD MAN"
-  ],
+	],
   "nativeHdrGames": [
     "Avowed",
     "Lies of P",
@@ -51,6 +51,7 @@
     }
   },
   "dcModeOverrides": {
+  "Red Dead Redemption 2": 1
   },
   "forceExternalOnly": {
     "Cyberpunk 2077": {
@@ -65,4 +66,3 @@
     "Code Vein II": "✅"
   }
 }
-
