@@ -44,6 +44,11 @@
       "notesUrl": "https://www.hdrmods.com/Cyberpunk",
       "notesUrlLabel": "Creepy's Cyberpunk RenoDX Guide"
     },
+	"High On Life 2": {
+      "notes": "⚠️ This game supports UE-Extended using native HDR. Additional steps must be followd for this to work\nCreate and Engine.ini in the game's Appdata folder with the following information:\n\n[SystemSettings]\nr.AllowHDR=1\nr.HDR.EnableHDROutput=1\nr.HDR.Display.OutputDevice=3\nr.HDR.Display.ColorGamut=2\nr.HDR.UI.CompositeMode=1\n\n[/Script/Engine.RendererSettings]\nr.LUT.UpdateEveryFrame=1\n\nYou can download a preconfigured Engine.ini here:",
+      "notesUrl": "https://raw.githubusercontent.com/RankFTW/rdxc-manifest/main/Engine.ini",
+      "notesUrlLabel": "Engine.ini"
+    },
     "Dishonored": {
       "notes": "ℹ️ This game has both 32-bit and 64-bit RenoDX builds.\n\n• 64-bit (default) — for the Microsoft Store and Epic Games Store versions.\n• 32-bit — for the Steam version. Enable 32-bit mode in 🎯 Overrides to use this.",
       "notesUrl": null,
