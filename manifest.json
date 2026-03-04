@@ -9,7 +9,8 @@
 	"ueExtendedGames": [
 	"Crisol: Theater of Idols",
 	"High on Life 2",
-	"ROMEO IS A DEAD MAN"
+	"ROMEO IS A DEAD MAN",
+	"Of Ash and Steel"
 	],
   "nativeHdrGames": [
     "Avowed",
@@ -55,6 +56,11 @@
     },
 	"X4: Timelines": {
       "notes": "⚠️ DC must be loaded as winmm.dll using DC Mode 2",
+      "notesUrl": null,
+      "notesUrlLabel": null
+    },
+	"Of Ash and Steel": {
+      "notes": "ℹ️ Works with UE-Extended",
       "notesUrl": null,
       "notesUrlLabel": null
     },
