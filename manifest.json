@@ -119,7 +119,7 @@
 			"notesUrlLabel": null
 		},
 		"Red Dead Redemption 2": {
-			"notes": "⚠️ Game must use DC Mode 1 if using DC Mode.\nℹ️ Change ReShade overlay button in ReShade.ini so it doesn't conflict with Rockstar overlay",
+			"notes": "⚠️ In DX12 you must use standard installs of ReShade and Display Commander OR DC Mode 1\n\n⚠️In Vulkan you must use DC Mode 2 or install ReShade independently from the installer in %LOCALAPPDATA%/RenoDXCommander/ReShade\n\nℹ️ Change ReShade overlay button in ReShade.ini so it doesn't conflict with Rockstar overlay",
 			"notesUrl": null,
 			"notesUrlLabel": null
 		},
