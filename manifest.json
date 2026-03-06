@@ -16,8 +16,8 @@
 		"Borderless Gaming",
 		"Lossless Scaling",
 		"OCCT",
-		"Battle.net.exe"
-		
+		"Battle.net.exe",
+		"Battle.net.16125"		
 	],
 
 	"nativeHdrGames": [
@@ -57,8 +57,7 @@
 	"installPathOverrides": {
 		"Cyberpunk 2077": "bin\\x64",
 		"Of Ash and Steel": "ofAshAndSteelGame\\Binaries\\Win64",
-		"ELDEN RING": "Game",
-		"Battle.net": ""
+		"ELDEN RING": "Game"		
 	},
 	"snapshotOverrides": {
 		"Far Cry 2": "https://clshortfuse.github.io/renodx/renodx-duniaengine.addon32",
