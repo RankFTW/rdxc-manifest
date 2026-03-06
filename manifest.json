@@ -48,8 +48,7 @@
 		"Far Cry 2": "Far Cry 2 (dx10) · Far Cry 3 (dx11)",
 		"Far Cry 3": "Far Cry 2 (dx10) · Far Cry 3 (dx11)",
 		"FINAL FANTASY VII REMAKE INTERGRADE": "Final Fantasy VII Remake",
-		"ELDEN RING": "Elden Ring",
-		"Battle.net": "\\"
+		"ELDEN RING": "Elden Ring"
 	},
 	"wikiStatusOverrides": {
 		"Code Vein II": "✅"
@@ -58,7 +57,8 @@
 	"installPathOverrides": {
 		"Cyberpunk 2077": "bin\\x64",
 		"Of Ash and Steel": "ofAshAndSteelGame\\Binaries\\Win64",
-		"ELDEN RING": "Game"
+		"ELDEN RING": "Game",
+		"Battle.net": "\\"
 	},
 	"snapshotOverrides": {
 		"Far Cry 2": "https://clshortfuse.github.io/renodx/renodx-duniaengine.addon32",
