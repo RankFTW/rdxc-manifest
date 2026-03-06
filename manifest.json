@@ -58,7 +58,7 @@
 		"Cyberpunk 2077": "bin\\x64",
 		"Of Ash and Steel": "ofAshAndSteelGame\\Binaries\\Win64",
 		"ELDEN RING": "Game",
-		"Battle.net": "\\"
+		"Battle.net": ""
 	},
 	"snapshotOverrides": {
 		"Far Cry 2": "https://clshortfuse.github.io/renodx/renodx-duniaengine.addon32",
