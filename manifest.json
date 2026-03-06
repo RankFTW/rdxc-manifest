@@ -119,6 +119,11 @@
 			"notesUrlLabel": null
 		},
 		"Red Dead Redemption 2": {
+			"notes": "⚠️ You must download REFramework in order to use ReShade and RenoDX in this title.\n\n",
+			"notesUrl": "https://github.com/praydog/REFramework-nightly/releases",
+			"notesUrlLabel": "Download the latest version of REFramework here."
+		},
+		"Resident Evil Requiem": {
 			"notes": "⚠️ In DX12 you must use DC Mode Off installs of ReShade and Display Commander OR DC Mode 1\n\n⚠️In Vulkan you must use DC Mode 2 or install ReShade independently from the installer in %LOCALAPPDATA%/RenoDXCommander/ReShade\n\nℹ️ Change ReShade overlay button in ReShade.ini so it doesn't conflict with Rockstar overlay",
 			"notesUrl": null,
 			"notesUrlLabel": null
