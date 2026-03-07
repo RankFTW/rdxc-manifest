@@ -81,7 +81,7 @@
 
 	"gameNotes": {
 		"Crisol: Theater of Idols": {
-			"notes": "ℹ️ Game supports UE-Extended using Native HDR.",
+			"notes": "ℹ️ Game supports UE-Extended using Native HDR.\n\nLaunch the game with UE-Extended installed to generate the correct segment of ReShade.ini.\nClose the game and in ReShade.ini look for the line that says 'Set_Path=1' and change this to 'Set_Path=0'",
 			"notesUrl": null,
 			"notesUrlLabel": null
 		},
@@ -96,7 +96,7 @@
 			"notesUrlLabel": null
 		},
 		"Echoes of the End: Enhanced Edition": {
-			"notes": "ℹ️ Game supports UE-Extended using Native HDR",
+			"notes": "ℹ️ Game supports UE-Extended using Native HDR\n\nLaunch the game with UE-Extended installed to generate the correct segment of ReShade.ini.\nClose the game and in ReShade.ini look for the line that says 'Set_Path=1' and change this to 'Set_Path=0'",
 			"notesUrl": null,
 			"notesUrlLabel": null
 		},
