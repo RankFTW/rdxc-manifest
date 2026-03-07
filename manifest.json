@@ -23,6 +23,7 @@
 	"nativeHdrGames": [
 		"Alone in the Dark",
 		"Avowed",
+		"Echoes of the End",
 		"Hell is Us",
 		"Lies of P",
 		"Lost Soul Aside",
@@ -80,7 +81,7 @@
 
 	"gameNotes": {
 		"Crisol: Theater of Idols": {
-			"notes": "ℹ️ Game supports UE-Extended using Native HDR",
+			"notes": "ℹ️ Game supports UE-Extended using Native HDR. Lazorr Test",
 			"notesUrl": null,
 			"notesUrlLabel": null
 		},
@@ -91,6 +92,11 @@
 		},
 		"Dishonored": {
 			"notes": "ℹ️ This game has both 32-bit and 64-bit RenoDX builds.\n\n• 64-bit (default) — for the Microsoft Store and Epic Games Store versions.\n• 32-bit — for the Steam version. Enable 32-bit mode in 🎯 Overrides to use this.",
+			"notesUrl": null,
+			"notesUrlLabel": null
+		},
+		"Echoes of the End: Enhanced Edition": {
+			"notes": "ℹ️ Game supports UE-Extended using Native HDR",
 			"notesUrl": null,
 			"notesUrlLabel": null
 		},
