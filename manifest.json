@@ -62,6 +62,7 @@
 		"ELDEN RING": "Game"		
 	},
 	"snapshotOverrides": {
+		"CODE VEIN II": "https://marat569.github.io/renodx/renodx-codevein2.addon64",
 		"Far Cry 2": "https://clshortfuse.github.io/renodx/renodx-duniaengine.addon32",
 		"Far Cry 3": "https://clshortfuse.github.io/renodx/renodx-duniaengine.addon32"
 	},
@@ -73,10 +74,6 @@
 			"url": "https://discord.gg/gF4GRJWZ2A",
 			"label": "Get on Discord"
 		},
-		"Code Vein II": {
-			"url": "https://github.com/clshortfuse/renodx/discussions/494",
-			"label": "RenoDX Instructions Here"
-		}
 	},
 
 	"gameNotes": {
