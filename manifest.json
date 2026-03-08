@@ -17,7 +17,9 @@
 		"Lossless Scaling",
 		"OCCT",
 		"Battle.net.exe",
-		"Battle.net.16125"		
+		"Battle.net.16125",
+		"Battle.net.15492",
+		"Battle.net.15561"
 	],
 
 	"nativeHdrGames": [
@@ -41,7 +43,12 @@
 	],
 	"thirtyTwoBitGames": [
 		"Far Cry 2",
-		"Far Cry 3"
+		"Far Cry 3",
+		"Max Payne 3",
+		"Tomb Raider (2013)",
+		"Tomb Raider",
+		"Ghost of a Tale",
+		"Ori and the Blind Forest: Definitive Edition"
 	],
 
 	"wikiNameOverrides": {
