@@ -43,7 +43,7 @@
 		"Titan Quest II"
 	],
 	"thirtyTwoBitGames": [
-		"Batman: Arkham Asylum GOTY",
+		"Batman: Arkham Asylum GOTY Edition",
 		"Far Cry 2",
 		"Far Cry 3",
 		"Max Payne 3",
@@ -67,7 +67,7 @@
 	},
 
 	"installPathOverrides": {
-		"Batman: Arkham Asylum GOTY": "Binaries",
+		"Batman: Arkham Asylum GOTY Edition": "Binaries",
 		"Cyberpunk 2077": "bin\\x64",
 		"Of Ash and Steel": "ofAshAndSteelGame\\Binaries\\Win64",
 		"ELDEN RING": "Game"		
