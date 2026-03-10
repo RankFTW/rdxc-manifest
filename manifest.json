@@ -31,6 +31,7 @@
 		"Mafia: The Old Country",
 		"Marvel's Midnight Suns",
 		"Mortal Kombat 1",
+		"Nobody Wants to Die",
 		"Returnal",
 		"Still Wakes the Deep"
 	],
@@ -132,6 +133,11 @@
 			"notesUrlLabel": null
 		},
 		"High On Life 2": {
+			"notes": "⚠️ This game supports UE-Extended using native HDR. Additional steps must be taken for this to work.\n\nLaunch the game with UE-Extended installed to generate the correct segment of ReShade.ini.\nClose the game and in ReShade.ini look for the line that says 'Set_Path=1' and change this to 'Set_Path=0'\n\nCreate an Engine.ini in the game's Appdata folder with the following information:\n\n[SystemSettings]\nr.AllowHDR=1\nr.HDR.EnableHDROutput=1\nr.HDR.Display.OutputDevice=3\nr.HDR.Display.ColorGamut=2\nr.HDR.UI.CompositeMode=1\n\n[/Script/Engine.RendererSettings]\nr.LUT.UpdateEveryFrame=1\n\nYou can download a preconfigured Engine.ini here:",
+			"notesUrl": "https://github.com/RankFTW/rdxc-manifest/releases/download/Engine.ini/Engine.ini",
+			"notesUrlLabel": "Engine.ini"
+		},
+		"Nobody Wants to Die": {
 			"notes": "⚠️ This game supports UE-Extended using native HDR. Additional steps must be taken for this to work.\n\nLaunch the game with UE-Extended installed to generate the correct segment of ReShade.ini.\nClose the game and in ReShade.ini look for the line that says 'Set_Path=1' and change this to 'Set_Path=0'\n\nCreate an Engine.ini in the game's Appdata folder with the following information:\n\n[SystemSettings]\nr.AllowHDR=1\nr.HDR.EnableHDROutput=1\nr.HDR.Display.OutputDevice=3\nr.HDR.Display.ColorGamut=2\nr.HDR.UI.CompositeMode=1\n\n[/Script/Engine.RendererSettings]\nr.LUT.UpdateEveryFrame=1\n\nYou can download a preconfigured Engine.ini here:",
 			"notesUrl": "https://github.com/RankFTW/rdxc-manifest/releases/download/Engine.ini/Engine.ini",
 			"notesUrlLabel": "Engine.ini"
