@@ -62,6 +62,7 @@
 	"wikiNameOverrides": {
 		"BurnoutPR": "Burnout Paradise Remastered",
 		"DRAGON QUEST VII Reimagined": "Dragon Quest VII Remake",
+		"DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition": "Dragon Quest XI (Original & DE)",
 		"EVERSPACE™ 2": "EVERSPACE 2",
 		"Far Cry 2": "Far Cry 2 (dx10) · Far Cry 3 (dx11)",
 		"Far Cry 3": "Far Cry 2 (dx10) · Far Cry 3 (dx11)",
@@ -123,6 +124,11 @@
 			"notes": "ℹ️ Optional: Enable HDR from Engine.ini with DQ7RFix. see below.\nAdd the following cvars to the DQ7RFix.ini.\n\nr.AllowHDR=1\nr.HDR.EnableHDROutput=1\nr.HDR.Display.OutputDevice=5\nr.HDR.Display.ColorGamut=2\nr.HDR.UI.CompositeMode=1\nr.HDR.UI.Level=1.5\n\nThe game has to be run in DX11 mode with '-dx11' argument.\n\nThis is reported to have the best result. SDR upgrade with DX11 and DX12 still works, but can exhibit UI/fog rendering problems.",
 			"notesUrl": "https://codeberg.org/Lyall/DQ7RFix/releases",
 			"notesUrlLabel": "Lyall's DQ7RFix"
+		},
+		"DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition": {
+			"notes": "ℹ️ Optional: Enable HDR from Engine.ini. The SDR upgrade path might break some text box UIs.\n\nr.AllowHDR=1\nr.HDR.EnableHDROutput=1\nr.HDR.Display.OutputDevice=5\nr.HDR.Display.ColorGamut=2\nr.HDR.UI.CompositeMode=1\nr.HDR.UI.Level=1.5\n\nAlso support the original game. By default it uses Filmic Postprocess (Mobile).\nCompatible with Luma DLSS/DLAA.",
+			"notesUrl": null,
+			"notesUrlLabel": null
 		},
 		"Echoes of the End: Enhanced Edition": {
 			"notes": "ℹ️ Game supports UE-Extended using Native HDR\n\nLaunch the game with UE-Extended installed to generate the correct segment of ReShade.ini.\nClose the game and in ReShade.ini look for the line that says 'Set_Path=1' and change this to 'Set_Path=0'",
