@@ -121,7 +121,7 @@
 			"notesUrlLabel": null
 		},
 		"Dragon Quest VII Reimagined": {
-			"notes": "ℹ️ Optional: Enable HDR from Engine.ini with DQ7RFix. see below.\nAdd the following cvars to the DQ7RFix.ini.\n\nr.AllowHDR=1\nr.HDR.EnableHDROutput=1\nr.HDR.Display.OutputDevice=5\nr.HDR.Display.ColorGamut=2\nr.HDR.UI.CompositeMode=1\nr.HDR.UI.Level=1.5\n\nThe game has to be run in DX11 mode with '-dx11' argument.\n\nThis is reported to have the best result. SDR upgrade with DX11 and DX12 still works, but can exhibit UI/fog rendering problems.",
+			"notes": "ℹ️ Optional: Enable HDR from Engine.ini with DQ7RFix. see below.\nAdd the following cvars to the DQ7RFix.ini.\n\nr.AllowHDR=1\nr.HDR.EnableHDROutput=1\nr.HDR.Display.OutputDevice=5\nr.HDR.Display.ColorGamut=2\nr.HDR.UI.CompositeMode=1\nr.HDR.UI.Level=1.5\n\nThe game has to be run in DX11 mode with '-dx11' argument.\n\nIf using the recommended Engine.ini route then you must also set the Processing Path to Engine HDR in the RenoDX tab of ReShade once in game\n\nThis is reported to have the best result. SDR upgrade with DX11 and DX12 still works, but can exhibit UI/fog rendering problems.",
 			"notesUrl": "https://codeberg.org/Lyall/DQ7RFix/releases",
 			"notesUrlLabel": "Lyall's DQ7RFix"
 		},
