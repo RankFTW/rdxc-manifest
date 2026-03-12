@@ -178,6 +178,11 @@
       "notesUrl": "https://github.com/praydog/REFramework-nightly/releases",
       "notesUrlLabel": "Download the latest version of REFramework here."
     },
+	"Terraria": {
+      "notes": "\u26a0\ufe0f Terraria defaults to DC Mode 2 due to the game having issues with loading ReShade on its own. Display Commander is required in this title.",
+      "notesUrl": null,
+      "notesUrlLabel": null
+    },
     "Titan Quest II": {
       "notes": "\u26a0\ufe0f This game supports UE-Extended using native HDR. Additional steps must be taken for this to work.\n\nThe only way to enable native HDR is by using the Ultra Plus mod which is linked below\n\nLaunch the game with UE-Extended installed to generate the correct segment of ReShade.ini.\nClose the game and in ReShade.ini look for the line that says 'Set_Path=1' and change this to 'Set_Path=0'\n\nGame screen will go black while in inventory while using UE-Extended in this title\n\nDownload Ultra Plus mod here, Ultra Plus Mod Manager recommended:",
       "notesUrl": "https://www.nexusmods.com/titanquest2/mods/11",
