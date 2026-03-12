@@ -231,6 +231,7 @@
 	"Superhot"
   ],
   "engineOverrides": {
-	"Cities: Skylines": "Unity"
+	"Cities: Skylines": "Unity",
+	"Greedfall: The Dying World": "Silk"
   }
 }
