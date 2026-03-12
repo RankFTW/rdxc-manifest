@@ -88,7 +88,8 @@
     "Jedi Fallen Order": "https://clshortfuse.github.io/renodx/renodx-unrealengine.addon64"
   },
   "dcModeOverrides": {
-    "X4: Timelines": 2
+    "X4: Timelines": 2,
+	"Terraria": 2
   },
   "forceExternalOnly": {
     "Avatar: Frontiers of Pandora": {
