@@ -241,6 +241,7 @@
   ],
   "engineOverrides": {
 	"Cities: Skylines": "Unity",
-	"Greedfall: The Dying World": "Silk"
+	"Greedfall: The Dying World": "Silk",
+	"Terraria": "Scrungus"
   }
 }
