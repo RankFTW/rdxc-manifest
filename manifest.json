@@ -192,7 +192,7 @@
       "notesUrlLabel": "UltraPlus Mod"
     },
 	"tModLoader": {
-      "notes": "\u26a0\ufe0f You must run the game once in order to create the correct directories for ReShade/RenoDX to work.",
+      "notes": "\u26a0\ufe0f You must run the game once in order to create the correct directories for ReShade/RenoDX to work.\nAfter running the game once click Refresh and make sure directory is detected as /tModLoader/dotnet before installing anything",
       "notesUrl": null,
       "notesUrlLabel": null
     },
