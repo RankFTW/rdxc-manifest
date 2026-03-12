@@ -1,0 +1,35 @@
+Code Vein 2
+Crisis Core 
+High On Life 2
+Lies of P
+Like a Dragon: Ishin!
+Lost Soul Aside
+Mafia: The Old Country
+Returnal
+Romeo is a Dead Man
+
+Avowed
+Lies of P
+Lost Soul Aside
+Hell is Us
+Mafia: The Old Country
+Returnal
+Marvel's Midnight Suns
+Mortal Kombat 1
+Alone in the Dark
+
+-- 
+
+These are games with a Native HDR that I've coded the addon to automatically detect; and UE-Extended fixs the native hdr
+
+still wakes the deep
+
+with native hdr you dont need any
+with the sdr path you usualyl need b8g8r8a8_typless and/or r10g10b10a2_unorm (output size)
+
+if you have a black screen
+the processing path is sdr
+processing path off = native hdr or ini hdr -- processing path on  = sdr path
+
+if you're taking the sdr path, you need to upgrade RGB10A2 output size (at a minimum) 
+same as generic, cammon guys
