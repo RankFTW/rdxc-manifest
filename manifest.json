@@ -191,6 +191,11 @@
       "notesUrl": "https://www.nexusmods.com/titanquest2/mods/11",
       "notesUrlLabel": "UltraPlus Mod"
     },
+	"tModLoader": {
+      "notes": "\u26a0\ufe0f You must run the game once in order to create the correct directories for ReShade/RenoDX to work.",
+      "notesUrl": null,
+      "notesUrlLabel": null
+    },
     "X4: Timelines": {
       "notes": "\u26a0\ufe0f DC must be loaded as winmm.dll using DC Mode 2. Game will not launch with ReShade installed normally and it must be proxied through DC",
       "notesUrl": null,
