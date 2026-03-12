@@ -229,5 +229,8 @@
   },
   "sixtyFourBitGames": [
 	"Superhot"
-  ]
+  ],
+  "engineOverrides": {
+	"Red Dead Redemption 2": "Blorgan"
+  }
 }
