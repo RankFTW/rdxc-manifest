@@ -63,7 +63,7 @@
     "Cities: Skylines": "Unity",
     "Greedfall: The Dying World": "Silk Engine",
     "Terraria": "Scrungus Engine",
-	"The Elder Scrolls III: Morrowind": "OpenMW Engine"
+	"Open Morrowind": "OpenMW Engine"
   },
   "dllNameOverrides": {
 	  "The Elder Scrolls III: Morrowind": { "reshade": "opengl32.dll", "dc": "" }
