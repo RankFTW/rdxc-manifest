@@ -65,7 +65,7 @@
     "Terraria": "Scrungus"
   },
   "dllNameOverrides": {
-	  "The Elder Scrolls III: Morrowind": { "reshade": "opengl32.dll", "dc": "" 
+	  "The Elder Scrolls III: Morrowind": { "reshade": "opengl32.dll", "dc": "" }
   },
   "wikiNameOverrides": {
     "BurnoutPR": "Burnout Paradise Remastered",
