@@ -113,7 +113,8 @@
     "ELDEN RING": "Game",
     "Mortal Kombat 11": "Binaries\\Retail",
     "tModLoader": "dotnet",
-    "Mirror's Edge": "Binaries"
+    "Mirror's Edge": "Binaries",
+	"Project Motor Racing": "x64"
   },
   "snapshotOverrides": {
 	"Assassin's Creed": "https://clshortfuse.github.io/renodx/renodx-asscreed1.addon32",
