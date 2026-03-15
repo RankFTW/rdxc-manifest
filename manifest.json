@@ -72,6 +72,7 @@
 	"The Elder Scrolls III: Morrowind": { "reshade": "opengl32.dll", "dc": "" }
   },
   "wikiNameOverrides": {
+	"Assassin's Creed": "Assassin's Creed™: Director's Cut Edition (DX10)",
     "BurnoutPR": "Burnout Paradise Remastered",
     "DRAGON QUEST VII Reimagined": "Dragon Quest VII Remake",
     "DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition": "Dragon Quest XI (Original & DE)",
@@ -84,8 +85,10 @@
     "Jedi Survivor": "STAR WARS Jedi: Survivor™"
   },
   "wikiStatusOverrides": {
-    "Cities: Skylines": "⚠️",
     "Code Vein II": "✅",
+	"Grand Theft Auto: San Andreas – The Definitive Edition": "✅",
+	"Grand Theft Auto III – The Definitive Edition": "✅",
+	"Grand Theft Auto: Vice City – The Definitive Edition": "✅",
     "High On Life 2": "✅",
     "Lies of P": "✅",
     "Nobody Wants to Die": "✅"
