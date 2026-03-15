@@ -81,14 +81,14 @@
     "Far Cry 3": "Far Cry 2 (dx10) · Far Cry 3 (dx11)",
     "FINAL FANTASY VII REMAKE INTERGRADE": "Final Fantasy VII Remake",
     "FINAL FANTASY VII REBIRTH": "Final Fantasy 7 : Rebirth",
+	"Grand Theft Auto: San Andreas – The Definitive Edition": "Grand Theft Auto: The Trilogy – The Definitive Edition (III, Vice City, San Andreas)",
+	"Grand Theft Auto III – The Definitive Edition": "Grand Theft Auto: The Trilogy – The Definitive Edition (III, Vice City, San Andreas)",
+	"Grand Theft Auto: Vice City – The Definitive Edition": "Grand Theft Auto: The Trilogy – The Definitive Edition (III, Vice City, San Andreas)",	
     "ELDEN RING": "Elden Ring",
     "Jedi Survivor": "STAR WARS Jedi: Survivor™"
   },
   "wikiStatusOverrides": {
-    "Code Vein II": "✅",
-	"Grand Theft Auto: San Andreas – The Definitive Edition": "✅",
-	"Grand Theft Auto III – The Definitive Edition": "✅",
-	"Grand Theft Auto: Vice City – The Definitive Edition": "✅",
+    "Code Vein II": "✅",	
     "High On Life 2": "✅",
     "Lies of P": "✅",
     "Nobody Wants to Die": "✅"
