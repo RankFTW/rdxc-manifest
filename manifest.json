@@ -71,8 +71,7 @@
   "dllNameOverrides": {
 	"The Elder Scrolls III: Morrowind": { "reshade": "opengl32.dll", "dc": "" }
   },
-  "wikiNameOverrides": {
-	"Assassin's Creed": "Assassin's Creed™: Director's Cut Edition",
+  "wikiNameOverrides": {	
     "BurnoutPR": "Burnout Paradise Remastered",
     "DRAGON QUEST VII Reimagined": "Dragon Quest VII Remake",
     "DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition": "Dragon Quest XI (Original & DE)",
