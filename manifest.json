@@ -70,8 +70,7 @@
   },
   "graphicsApiOverrides": {
     "Burnout Paradise Remastered": "DX11",
-	"BurnoutPR": "DX11",
-	"Cities: Skylines": "DX11"
+	"BurnoutPR": "DX11"	
   },
   "dllNameOverrides": {
 	"The Elder Scrolls III: Morrowind": { "reshade": "opengl32.dll", "dc": "" }
@@ -114,6 +113,7 @@
   "installPathOverrides": {
     "Batman: Arkham Asylum GOTY Edition": "Binaries",
     "Cyberpunk 2077": "bin\\x64",
+	"Divinity: Original Sin 2": "DefEd\\bin",
     "Of Ash and Steel": "ofAshAndSteelGame\\Binaries\\Win64",
     "ELDEN RING": "Game",
     "Mortal Kombat 11": "Binaries\\Retail",
