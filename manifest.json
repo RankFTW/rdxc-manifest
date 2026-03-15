@@ -69,7 +69,8 @@
 	"The Elder Scrolls III: Morrowind": "Creation Engine"
   },
   "graphicsApiOverrides": {
-    "Burnout Paradise Remastered": "DX11"
+    "Burnout Paradise Remastered": "DX11",
+	"BurnoutPR": "DX11"
   },
   "dllNameOverrides": {
 	"The Elder Scrolls III: Morrowind": { "reshade": "opengl32.dll", "dc": "" }
