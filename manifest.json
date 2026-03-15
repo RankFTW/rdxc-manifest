@@ -72,6 +72,7 @@
 	"The Elder Scrolls III: Morrowind": { "reshade": "opengl32.dll", "dc": "" }
   },
   "wikiNameOverrides": {	
+	"Assassin's Creed": "Assassin's Creed™: Director's Cut Edition",
     "BurnoutPR": "Burnout Paradise Remastered",
     "DRAGON QUEST VII Reimagined": "Dragon Quest VII Remake",
     "DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition": "Dragon Quest XI (Original & DE)",
@@ -115,7 +116,7 @@
     "Mirror's Edge": "Binaries"
   },
   "snapshotOverrides": {
-	"Assassin's Creed": "https://clshortfuse.github.io/renodx/renodx-asscreed1.addon32"
+	"Assassin's Creed": "https://clshortfuse.github.io/renodx/renodx-asscreed1.addon32",
     "Cities: Skylines": "https://notvoosh.github.io/renodx-unity/renodx-unityengine.addon64",
     "CODE VEIN II": "https://marat569.github.io/renodx/renodx-codevein2.addon64",
     "Far Cry 2": "https://clshortfuse.github.io/renodx/renodx-duniaengine.addon32",
