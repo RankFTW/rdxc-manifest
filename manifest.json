@@ -68,6 +68,10 @@
     "Terraria": "Scrungus Engine",
 	"The Elder Scrolls III: Morrowind": "Creation Engine"
   },
+  {
+  "graphicsApiOverrides": {
+    "Burnout Paradise Remastered": "DX11"
+  },
   "dllNameOverrides": {
 	"The Elder Scrolls III: Morrowind": { "reshade": "opengl32.dll", "dc": "" }
   },
