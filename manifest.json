@@ -131,7 +131,7 @@
     "Far Cry 2": "https://clshortfuse.github.io/renodx/renodx-duniaengine.addon32",
     "Far Cry 3": "https://clshortfuse.github.io/renodx/renodx-duniaengine.addon32",
     "Jedi Fallen Order": "https://clshortfuse.github.io/renodx/renodx-unrealengine.addon64",
-    "Terraria": "https://clshortfuse.github.io/renodx/renodx-terraria.addon32"
+    "Terraria": "https://clshortfuse.github.io/renodx/renodx-terraria.addon32",
   },
   "dcModeOverrides": {
     "X4: Timelines": 2,
@@ -143,6 +143,10 @@
       "label": "Get on Discord"
     },
     "Cyberpunk 2077": {
+      "url": "https://discord.gg/gF4GRJWZ2A",
+      "label": "Get on Discord"
+    }
+	"Red Dead Redemption2": {
       "url": "https://discord.gg/gF4GRJWZ2A",
       "label": "Get on Discord"
     }
