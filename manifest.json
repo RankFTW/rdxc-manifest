@@ -134,8 +134,6 @@
     "Terraria": "https://clshortfuse.github.io/renodx/renodx-terraria.addon32"
   },
   "dcModeOverrides": {
-    "X4: Timelines": 2,
-    "Terraria": 2
   },
   "forceExternalOnly": {
     "Avatar: Frontiers of Pandora": {
@@ -220,11 +218,6 @@
     },
     "Of Ash and Steel": {
       "notes": "ℹ️ Works with UE-Extended - Upgrades SDR to HDR",
-      "notesUrl": null,
-      "notesUrlLabel": null
-    },
-    "Red Dead Redemption 2": {
-      "notes": "⚠️ In DX12 you must use DC Mode Off installs of ReShade and Display Commander OR DC Mode 1\n\n⚠️In Vulkan you must use DC Mode 2 or install ReShade independently from the installer in %LOCALAPPDATA%/RenoDXCommander/ReShade\n\nℹ️ Change ReShade overlay button in ReShade.ini so it doesn't conflict with Rockstar overlay",
       "notesUrl": null,
       "notesUrlLabel": null
     },
