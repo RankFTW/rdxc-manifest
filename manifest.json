@@ -69,6 +69,7 @@
 	"The Elder Scrolls III: Morrowind": "Creation Engine"
   },
   "graphicsApiOverrides": {
+	"Baldur's Gate 3": "DX12, VLK",
     "Burnout Paradise Remastered": "DX11",
 	"BurnoutPR": "DX11",
 	"Dying Light: The Beast": "DX12",
