@@ -233,6 +233,11 @@
       "notesUrl": "https://github.com/praydog/REFramework-nightly/releases",
       "notesUrlLabel": "Download the latest version of REFramework here."
     },
+	"Street Fighter™ 6": {
+      "notes": "⚠️ You must download REFramework in order to use ReShade and RenoDX in this title.\n",
+      "notesUrl": "https://github.com/praydog/REFramework-nightly/releases",
+      "notesUrlLabel": "Download the latest version of REFramework here."
+    },
     "Terraria": {
       "notes": "⚠️ Terraria defaults to DC Mode 2 due to the game having issues with loading ReShade on its own. Display Commander is required in this title.",
       "notesUrl": null,
