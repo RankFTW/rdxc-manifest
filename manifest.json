@@ -80,6 +80,7 @@
   "wikiNameOverrides": {	
 	"Assassin's Creed": "Assassin's Creed™: Director's Cut Edition",
     "BurnoutPR": "Burnout Paradise Remastered",
+	"Dead Island Definitive Edition": "Dead Island (& Riptide) Definitive Edition",
     "DRAGON QUEST VII Reimagined": "Dragon Quest VII Remake",
     "DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition": "Dragon Quest XI (Original & DE)",
     "EVERSPACE™ 2": "EVERSPACE 2",
@@ -102,6 +103,7 @@
   },
   "wikiUnlinks": [
     "Avatar: Frontiers of Pandora",
+	"Dead Island",
     "Elin",
     "Northern Journey",
     "Descenders",
