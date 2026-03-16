@@ -72,7 +72,7 @@
     "Burnout Paradise Remastered": "DX11",
 	"BurnoutPR": "DX11",
 	"Dying Light: The Beast": "DX12",
-	"Red Dead Redepmtion 2": "DX12, VLK"
+	"Red Dead Redemption 2": "DX12, VLK"
   },
   "dllNameOverrides": {
 	"The Elder Scrolls III: Morrowind": { "reshade": "opengl32.dll", "dc": "" }
