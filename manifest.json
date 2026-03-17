@@ -147,7 +147,11 @@
     "Cyberpunk 2077": {
       "url": "https://discord.gg/gF4GRJWZ2A",
       "label": "Get on Discord"
-    }
+    },
+	"Minecraft for Windows": {
+		"url": "https://www.nexusmods.com/minecraftbedrockedition/mods/110?tab=files"
+		"label": "Download on Nexus"
+	}	
   },
   "gameNotes": {
     "Crisol: Theater of Idols": {
