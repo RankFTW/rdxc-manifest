@@ -93,6 +93,7 @@
 	"Grand Theft Auto III – The Definitive Edition": "Grand Theft Auto: The Trilogy – The Definitive Edition (III, Vice City, San Andreas)",
 	"Grand Theft Auto: Vice City – The Definitive Edition": "Grand Theft Auto: The Trilogy – The Definitive Edition (III, Vice City, San Andreas)",	
     "ELDEN RING": "Elden Ring",
+	"Nioh: Complete Edition": "Nioh",
     "Jedi Survivor": "STAR WARS Jedi: Survivor™",
 	"Red Dead Redemption 2": "Red Dead Redemption 2 (Vulkan)"
   },
@@ -262,7 +263,8 @@
     "BurnoutPR",
     "FINAL FANTASY VII REMAKE INTERGRADE",
     "Hollow Knight: Silksong",
-    "Inside"
+    "Inside",
+	"Nioh: Complete Edition"
   ],
   "lumaGameNotes": {
     "BioShock Remastered": {
