@@ -129,7 +129,7 @@
     "tModLoader": "dotnet",
     "Mirror's Edge": "Binaries",
 	"Project Motor Racing": "x64",
-	"The Witcher 3": "bin\\x64_dx12"
+	"The Witcher 3: Wild Hunt": "bin\\x64_dx12"
   },
   "snapshotOverrides": {
 	"Assassin's Creed": "https://clshortfuse.github.io/renodx/renodx-asscreed1.addon32",
