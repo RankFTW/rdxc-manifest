@@ -98,7 +98,8 @@
 	"Nioh: Complete Edition": "Nioh",
     "Jedi Survivor": "STAR WARS Jedi: Survivor™",
 	"Red Dead Redemption 2": "Red Dead Redemption 2 (Vulkan)",
-	"Persona 5 Royal": "Persona 5 Royal (Remake from Ersh's)"
+	"Persona 5 Royal": "Persona 5 Royal (Remake from Ersh's)",
+	"Minecraft for Windows": "Minecraft: Bedrock Edition"
   },
   "wikiStatusOverrides": {
     "Code Vein II": "✅",	
@@ -151,11 +152,7 @@
     "Cyberpunk 2077": {
       "url": "https://discord.gg/gF4GRJWZ2A",
       "label": "Get on Discord"
-    },
-	"Minecraft for Windows": {
-		"url": "https://www.nexusmods.com/minecraftbedrockedition/mods/110?tab=files",
-		"label": "Download on Nexus"
-	}	
+    }
   },
   "gameNotes": {
     "Crisol: Theater of Idols": {
