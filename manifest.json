@@ -77,7 +77,7 @@
 	"Dying Light: The Beast": "DX12",
 	"Red Dead Redemption 2": "DX12, VLK",
 	"The Witcher 3: Wild Hunt": "DX12",
-	"The Witcher 3: Wild Hunt - Game of the Year Edition": "DX12"
+	"The Witcher 3: Wild Hunt - Game of the Year Edition": "DX12"	
   },
   "dllNameOverrides": {
 	"The Elder Scrolls III: Morrowind": { "reshade": "opengl32.dll", "dc": "" }
@@ -135,7 +135,8 @@
     "Mirror's Edge": "Binaries",
 	"Project Motor Racing": "x64",
 	"The Witcher 3: Wild Hunt": "bin\\x64_dx12",
-	"The Witcher 3: Wild Hunt - Game of the Year Edition": "bin\\x64_dx12"
+	"The Witcher 3: Wild Hunt - Game of the Year Edition": "bin\\x64_dx12",
+	"Hades II": "Ship"
   },
   "snapshotOverrides": {
 	"Assassin's Creed": "https://clshortfuse.github.io/renodx/renodx-asscreed1.addon32",
