@@ -139,7 +139,8 @@
 	"Project Motor Racing": "x64",
 	"The Witcher 3: Wild Hunt": "bin\\x64_dx12",
 	"The Witcher 3: Wild Hunt - Game of the Year Edition": "bin\\x64_dx12",
-	"Hades II": "Ship"
+	"Hades II": "Ship",
+	"Crimson Desert": "bin64"
   },
   "snapshotOverrides": {
 	"Assassin's Creed": "https://clshortfuse.github.io/renodx/renodx-asscreed1.addon32",
