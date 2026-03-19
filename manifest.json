@@ -61,7 +61,8 @@
   "sixtyFourBitGames": [
     "Superhot",
 	"BeamNG.drive",
-	"Stardew Valley"
+	"Stardew Valley",
+	"Hades II"
   ],
   "engineOverrides": {
     "Cities: Skylines": "Unity",
@@ -101,7 +102,8 @@
     "Jedi Survivor": "STAR WARS Jedi: Survivor™",
 	"Red Dead Redemption 2": "Red Dead Redemption 2 (Vulkan)",
 	"Persona 5 Royal": "Persona 5 Royal (Remake from Ersh's)",
-	"Minecraft for Windows": "Minecraft: Bedrock Edition"
+	"Minecraft for Windows": "Minecraft: Bedrock Edition",
+	"Hades II": "Hades 2"
   },
   "wikiStatusOverrides": {
     "Code Vein II": "✅",	
