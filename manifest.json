@@ -61,7 +61,7 @@
   "sixtyFourBitGames": [
     "Superhot",
 	"BeamNG.drive",
-	"Stardew Valley.exe"
+	"Stardew Valley"
   ],
   "engineOverrides": {
     "Cities: Skylines": "Unity",
@@ -121,7 +121,8 @@
     "LEGO® Builder's Journey",
     "Resident Evil",
     "Spark the Electric Jester 3",
-    "XF Extreme Formula"
+    "XF Extreme Formula",
+	"Stardew Valley"
   ],
   "installPathOverrides": {
     "Batman: Arkham Asylum GOTY Edition": "Binaries",
