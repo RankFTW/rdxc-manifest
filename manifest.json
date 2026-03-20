@@ -69,7 +69,8 @@
     "Greedfall: The Dying World": "Silk Engine",
 	"Satisfactory": "Unreal",
     "Terraria": "Scrungus Engine",
-	"The Elder Scrolls III: Morrowind": "Creation Engine"
+	"The Elder Scrolls III: Morrowind": "Creation Engine",
+	"Crimson Desert": "BlackSpace Engine"
   },
   "graphicsApiOverrides": {
 	"Baldur's Gate 3": "DX12, VLK",
