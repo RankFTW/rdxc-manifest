@@ -153,6 +153,7 @@
     "Terraria": "https://clshortfuse.github.io/renodx/renodx-terraria.addon32"
   },
   "dcModeOverrides": {
+	"Crimson Desert": 0
   },
   "forceExternalOnly": {
     "Cyberpunk 2077": {
