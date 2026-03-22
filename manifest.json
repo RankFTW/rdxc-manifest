@@ -83,7 +83,8 @@
 	"Dying Light": "DX11"
   },
   "dllNameOverrides": {
-	"The Elder Scrolls III: Morrowind": { "reshade": "opengl32.dll", "dc": "" }
+	"The Elder Scrolls III: Morrowind": { "reshade": "opengl32.dll", "dc": "" },
+	"Terraria": { "reshade": "dbghelp.dll", "dc": "" }
   },
   "wikiNameOverrides": {	
 	"Assassin's Creed": "Assassin's Creed™: Director's Cut Edition",
@@ -154,8 +155,8 @@
     "Jedi Fallen Order": "https://clshortfuse.github.io/renodx/renodx-unrealengine.addon64",
     "Terraria": "https://clshortfuse.github.io/renodx/renodx-terraria.addon32"
   },
-  "dcModeOverrides": {
-	"Crimson Desert": 0
+  "dcModeOverrides": {	
+	"Terraria": 0
   },
   "forceExternalOnly": {
     "Cyberpunk 2077": {
@@ -250,7 +251,7 @@
       "notesUrlLabel": "Download the latest version of REFramework here."
     },
     "Terraria": {
-      "notes": "⚠️ Terraria defaults to DC Mode 2 due to the game having issues with loading ReShade on its own. Display Commander is required in this title.",
+      "notes": "⚠️ ",
       "notesUrl": null,
       "notesUrlLabel": null
     },
