@@ -80,7 +80,8 @@
 	"Red Dead Redemption 2": "DX12, VLK",
 	"The Witcher 3: Wild Hunt": "DX12",
 	"The Witcher 3: Wild Hunt - Game of the Year Edition": "DX12",	
-	"Dying Light": "DX11"
+	"Dying Light": "DX11",
+	"Doom: The Dark Ages": "VLK"
   },
   "dllNameOverrides": {
 	"The Elder Scrolls III: Morrowind": { "reshade": "opengl32.dll", "dc": "" },
