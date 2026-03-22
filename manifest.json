@@ -251,7 +251,7 @@
       "notesUrlLabel": "Download the latest version of REFramework here."
     },
     "Terraria": {
-      "notes": "⚠️ ",
+      "notes": "⚠️ ReShade must be named dbghelp.dll, this is done automatically when installed using RDXC",
       "notesUrl": null,
       "notesUrlLabel": null
     },
