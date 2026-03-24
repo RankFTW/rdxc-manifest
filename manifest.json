@@ -146,7 +146,9 @@
 	"Crimson Desert": "bin64",
 	"SILENT HILL 2": "SHProto\\Binaries\\Win64",
 	"HITMAN 3": "Retail",
-	"FarCry 6": "bin"
+	"FarCry 6": "bin",
+	"ARMORED CORE™ VI FIRES OF RUBICON™": "Game",
+	"Kingdom Come: Deliverance II": "Bin\\Win64MasterMasterSteamPGO"
   },
   "snapshotOverrides": {
 	"Assassin's Creed": "https://clshortfuse.github.io/renodx/renodx-asscreed1.addon32",
@@ -307,6 +309,7 @@
     "Pumbo": "https://ko-fi.com/pumbo",
     "Nukem": "https://ko-fi.com/nukem9",
     "Lilium": "https://ko-fi.com/endlesslyflowering",
-    "Bit Viper": "https://ko-fi.com/bitviper"
+    "Bit Viper": "https://ko-fi.com/bitviper",
+	"Ritsu": "https://ko-fi.com/ritsucecil"
   }
 }
