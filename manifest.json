@@ -72,7 +72,9 @@
 	"Satisfactory": "Unreal",
     "Terraria": "Scrungus Engine",
 	"The Elder Scrolls III: Morrowind": "Creation Engine",
-	"Crimson Desert": "BlackSpace Engine"
+	"Crimson Desert": "BlackSpace Engine",
+	"Control": "Northlight Engine",
+	"Control Ultimate Edition": "Northlight Engine"
   },
   "graphicsApiOverrides": {
 	"Baldur's Gate 3": "DX12, VLK",
