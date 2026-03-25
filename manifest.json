@@ -152,7 +152,8 @@
 	"HITMAN 3": "Retail",
 	"FarCry 6": "bin",
 	"ARMORED CORE™ VI FIRES OF RUBICON™": "Game",
-	"Kingdom Come: Deliverance II": "Bin\\Win64MasterMasterSteamPGO"
+	"Kingdom Come: Deliverance II": "Bin\\Win64MasterMasterSteamPGO",
+	"Indiana Jones and the Great Circle": ""
   },
   "snapshotOverrides": {
 	"Assassin's Creed": "https://clshortfuse.github.io/renodx/renodx-asscreed1.addon32",
