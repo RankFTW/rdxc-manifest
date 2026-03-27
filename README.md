@@ -1,6 +1,6 @@
 # RHI — Detailed Guide
 
-This document covers everything RHI does in depth. For a quick overview, see the [README](../README.md).
+This document covers everything RHI does in depth. For a quick overview, see the [README](https://github.com/RankFTW/RenoDXChecker?tab=readme-ov-file#reshade-hdr-installer).
 
 ---
 
