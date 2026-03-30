@@ -282,11 +282,6 @@
       "notes": "⚠️ You must run the game once in order to create the correct directories for ReShade/RenoDX to work.\nAfter running the game once click Refresh and make sure directory is detected as /tModLoader/dotnet before installing anything",
       "notesUrl": null,
       "notesUrlLabel": null
-    },
-    "X4: Timelines": {
-      "notes": "⚠️ DC must be loaded as winmm.dll using DC Mode 2. Game will not launch with ReShade installed normally and it must be proxied through DC",
-      "notesUrl": null,
-      "notesUrlLabel": null
     }
   },
   "lumaDefaultGames": [
