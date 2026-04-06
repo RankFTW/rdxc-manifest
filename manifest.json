@@ -74,7 +74,8 @@
 	"The Elder Scrolls III: Morrowind": "Creation Engine",
 	"Crimson Desert": "BlackSpace Engine",
 	"Control": "Northlight Engine",
-	"Control Ultimate Edition": "Northlight Engine"
+	"Control Ultimate Edition": "Northlight Engine",
+	"Monster Hunter Stories 3: Twisted Reflection": "RE Engine"
   },
   "graphicsApiOverrides": {
 	"Baldur's Gate 3": "DX12, VLK",
